@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1672867532 source:c:\users\esmee\documents\avrprojects\kraanfinal\fuse.c
+	<avr/io.h>
+
+1672875390 source:c:\users\esmee\documents\avrprojects\kraanfinal\kraan_positie.c
+
+1672868098 source:c:\users\esmee\documents\avrprojects\kraanfinal\rx_tx.c
+
+1673186767 source:c:\users\esmee\documents\avrprojects\kraanfinal\clock.c
+	<avr/io.h>
+	<avr/interrupt.h>
+
