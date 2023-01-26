@@ -2,11 +2,39 @@
 1672867532 source:c:\users\esmee\documents\avrprojects\kraanfinal\fuse.c
 	<avr/io.h>
 
-1672875390 source:c:\users\esmee\documents\avrprojects\kraanfinal\kraan_positie.c
-
-1672868098 source:c:\users\esmee\documents\avrprojects\kraanfinal\rx_tx.c
-
-1673186767 source:c:\users\esmee\documents\avrprojects\kraanfinal\clock.c
+1674704531 source:c:\users\esmee\documents\avrprojects\kraanfinal\kraan_positie.c
+	"kraan_positie.h"
 	<avr/io.h>
 	<avr/interrupt.h>
+
+1674704789 source:c:\users\esmee\documents\avrprojects\kraanfinal\rx_tx.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<string.h>
+
+1674692820 source:c:\users\esmee\documents\avrprojects\kraanfinal\clock.c
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1674704615 source:c:\users\esmee\documents\avrprojects\kraanfinal\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<avr/delay.h>
+	"basic_io.h"
+	"clock.h"
+	"kraan_positie.h"
+	"rx_tx.h"
+
+1674692819 c:\users\esmee\documents\avrprojects\kraanfinal\clock.h
+
+1674705823 c:\users\esmee\documents\avrprojects\kraanfinal\kraan_positie.h
+	<stdint-gcc.h>
+
+1674701980 source:c:\users\esmee\documents\avrprojects\kraanfinal\basic_io.c
+	<avr/io.h>
+	"clock.h"
+
+1674696962 c:\users\esmee\documents\avrprojects\kraanfinal\basic_io.h
+
+1674704789 c:\users\esmee\documents\avrprojects\kraanfinal\rx_tx.h
 
